@@ -1,3 +1,3 @@
 import Terminal from "./Terminal";
-
-export default Terminal;
+import Safari from "./Safari";
+export { Terminal, Safari };
